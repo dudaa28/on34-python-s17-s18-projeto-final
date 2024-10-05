@@ -1,7 +1,7 @@
 
 # ANÁLISE DE DADOS DO MÊS DE SETEMBRO SOBRE AS QUEIMADAS NO DISTRITO FEDERAL E EM SÃO PAULO
 
-Reprograma Turma On34
+Reprograma Turma-On34
 
 Integrantes: Maria Eduarda Quaresma de Andrade e Fernanda da Silva Bazanini
 
