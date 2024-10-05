@@ -29,9 +29,9 @@ Realizar uma análise estatística dos dados de queimadas nas regiões de São P
 
     * Justificativa: Entender a relação entre precipitação e queimadas é essencial para a gestão de recursos naturais e a proteção de áreas suscetíveis a incêndios.
 
-# Metodologia #
+# Metodologia
 
-* Banco de Dados
+Banco de Dados:
 
 Os dados utilizados foram extraídos de um conjunto de dados contendo informações sobre queimadas no Brasil. As seguintes etapas foram realizadas:
 
