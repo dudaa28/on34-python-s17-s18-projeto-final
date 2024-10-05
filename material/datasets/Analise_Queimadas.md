@@ -19,15 +19,15 @@ Realizar uma análise estatística dos dados de queimadas nas regiões de São P
 
 1. Quais são os padrões históricos de queimadas nas regiões analisadas?
 
-* Justificativa: Compreender os padrões pode auxiliar na previsão de queimadas futuras e na implementação de ações preventivas.
+    * Justificativa: Compreender os padrões pode auxiliar na previsão de queimadas futuras e na implementação de ações preventivas.
 
 2. Qual é a relação entre dias sem chuva e o aumento do risco de fogo?
 
-* Justificativa: Identificar como a falta de chuva influencia o risco de queimadas pode ajudar na formulação de alertas e campanhas de conscientização.
+    * Justificativa: Identificar como a falta de chuva influencia o risco de queimadas pode ajudar na formulação de alertas e campanhas de conscientização.
 
 3. Como a precipitação afeta as ocorrências de queimadas?
 
-* Justificativa: Entender a relação entre precipitação e queimadas é essencial para a gestão de recursos naturais e a proteção de áreas suscetíveis a incêndios.
+    * Justificativa: Entender a relação entre precipitação e queimadas é essencial para a gestão de recursos naturais e a proteção de áreas suscetíveis a incêndios.
 
 # Metodologia #
 
@@ -37,21 +37,21 @@ Os dados utilizados foram extraídos de um conjunto de dados contendo informaç�
 
 1. Importação de Bibliotecas:
 
-* Utilização de bibliotecas como pandas e numpy para manipulação de dados.
+    * Utilização de bibliotecas como pandas e numpy para manipulação de dados.
 
 2. Leitura e Visualização:
 
-* Carregamento dos dados em formato CSV e visualização inicial.
+    * Carregamento dos dados em formato CSV e visualização inicial.
 
 3. Tratamento de Dados:
 
-* Verificação de valores ausentes e remoção de linhas com dados inválidos, como números negativos.
-* Filtragem dos dados por estado (São Paulo e Distrito Federal) e limpeza dos conjuntos de dados.
+    * Verificação de valores ausentes e remoção de linhas com dados inválidos, como números negativos.
+    * Filtragem dos dados por estado (São Paulo e Distrito Federal) e limpeza dos conjuntos de dados.
 
 4. Análise Estatística:
 
-* Geração de estatísticas descritivas para compreender a distribuição dos dados.
-* Criação de visualizações gráficas para ilustrar os padrões identificados.
+    * Geração de estatísticas descritivas para compreender a distribuição dos dados.
+    * Criação de visualizações gráficas para ilustrar os padrões identificados.
 
 # Entregáveis Esperados
 
