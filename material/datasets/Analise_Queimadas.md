@@ -33,7 +33,7 @@ Realizar uma análise estatística dos dados de queimadas nas regiões de São P
 
 # Metodologia
 
-Banco de Dados:
+Banco de Dados: https://www.google.com/url?q=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F1S16NonMM5GmUH_aPeJT-vCc31hcuST_b%2Fview%3Fusp%3Ddrive_link
 
 Os dados utilizados foram extraídos de um conjunto de dados contendo informações sobre queimadas no Brasil. As seguintes etapas foram realizadas:
 
