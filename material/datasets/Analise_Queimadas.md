@@ -3,11 +3,13 @@
 
 Reprograma Turma On34
 
-Integrantes: Maria Eduarda Quaresma de Andrade e Fernanda Ferraz do Prado
+Integrantes: Maria Eduarda Quaresma de Andrade e Fernanda da Silva Bazanini
 
 # Contexto
 
-Este projeto foi desenvolvido para analisar as ocorrências de queimadas nas regiões do Distrito Federal e São Paulo. A proposta é identificar padrões e tendências relacionadas ao risco de fogo, número de dias sem chuva e precipitação a partir de dados coletados, visando contribuir para a formulação de políticas públicas que ajudem a mitigar as queimadas.
+As queimadas têm se tornado um problema crescente no Brasil, especialmente as regiões estudadas neste projeto, no Distrito Federal e em São Paulo, afetando a saúde pública e a biodiversidade. Este projeto visa investigar as ocorrências de queimadas nessas regiões, analisando dados sobre Número de dias sem chuva, Risco de fogo e Precipitação.
+
+Através de análises estatísticas e visualizações feitas com base nos dados do mês de setembro, buscamos identificar padrões que esclareçam a relação entre o número de dias sem chuva, o risco de fogo e as precipitações com as queimadas nessas regiões. Nosso objetivo é contribuir para a conscientização e oferecer subsídios para políticas públicas que visem a mitigação desse problema.
 
 # Sobre Queimadas no Brasil
 
