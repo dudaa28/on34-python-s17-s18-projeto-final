@@ -3,7 +3,7 @@
 
 Reprograma Turma-On34
 
-Integrantes: Maria Eduarda Quaresma de Andrade e Fernanda da Silva Bazanini
+Integrantes:  Fernanda da Silva Bazanini e Maria Eduarda Quaresma de Andrade
 
 # Contexto
 
