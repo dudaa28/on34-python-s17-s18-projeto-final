@@ -9,7 +9,7 @@ Integrantes:  Fernanda da Silva Bazanini e Maria Eduarda Quaresma de Andrade
 
 Atualizamos recentemente nosso [dashboard do Tableau], que contém as análises mais recentes do projeto. Acesse o link para visualizar os dados detalhados: https://public.tableau.com/views/AnlisedeQueimadas-Projeto/ComparaodaSecuraeRiscodeFogoentreosEstados?:language=pt-BR&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
-Disponibilizamos também os [slides de apresentação] atualizados, onde você pode conferir os principais pontos e conclusões do projeto. Veja o link para acessar: https://www.canva.com/design/DAGTOYf96Gg/Rc6ubGolKdAGacsVHv5ghA/edit?utm_content=DAGTOYf96Gg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+Disponibilizamos também os [slides de apresentação] atualizados, onde você pode conferir os principais pontos e conclusões do projeto. Veja o link para acessar: https://www.canva.com/design/DAGTZpL3q1E/COelLCJ72NKaTsl8IkJ9tw/edit?utm_content=DAGTZpL3q1E&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 # Contexto
 
